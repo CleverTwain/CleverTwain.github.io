@@ -1,1 +1,27 @@
+title:            Get-CleverTwain
+description: Midnight is a theme for GitHub Pages.
+url:              https://clevertwain.github.io
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-midnight
+
+# Site owner
+owner:
+  name: CleverTwain
+  avatar: TransparentBio.png
+  bio: "Hobbyist programmer trying to make my life easer, without falling down too many rabbit holes." #"Systems Engineer with a penchant for PowerShell, science, cooking, information security, family, cookies, and the Oxford comma."
+  email: CleverTwain@gmail.com
+  disqus-shortname: get-clevertwain
+  twitter: CleverTwain
+  google:
+    analytics: UA-108987861-1
+  bing-verify:
+  github: CleverTwain
+  stackoverflow: #3067642/cookie-monster
+  linkedin: #wframe
+  technet: #https://social.technet.microsoft.com/profile/cookie.monster
+  wordpress: #https://ramblingcookiemonster.wordpress.com
+  rss: feed.xml
+  #Github repos in sidebar - match them up to the repository name...
+  githubrepos: [
+          "DepartmentalFolders"]
