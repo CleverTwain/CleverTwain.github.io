@@ -266,3 +266,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      header:
+        image: /images/function_banner_animated.gif
