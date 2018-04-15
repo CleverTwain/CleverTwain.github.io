@@ -7,7 +7,7 @@ date: 2018-04-15 12:11:00
 author: CleverTwain
 comments: true
 image:
- feature: function_banner_animated.gif
+ feature: "images/function_banner_animated.gif"
 ---
 {% include _toc.html %}
 
