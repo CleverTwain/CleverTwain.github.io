@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Testing layouts"
 excerpt: "The next rabbit hole"
 tags: [Jekyll, Formatting, Sass]
