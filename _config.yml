@@ -90,18 +90,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-108987861-1
+    tracking_id          : "UA-108987861-1"
 
 
 # Site Author
 author:
-  name             : CleverTwain
+  name             : "CleverTwain"
   avatar           : images/TransparentBio.png
   bio              : "Hobbyist programmer trying to make my life easer, without falling down too many rabbit holes."
   location         : "SW Michigan"
-  email            : CleverTwain@gmail.com
+  email            : "CleverTwain@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
