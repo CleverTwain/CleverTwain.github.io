@@ -20,10 +20,10 @@ title                    : "Get-CleverTwain"
 title_separator          : "-"
 name                     : "CleverTwain"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://clevertwain.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : images/function_banner_animated.gif
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,7 +102,7 @@ author:
   bio              : "Hobbyist programmer trying to make my life easer, without falling down too many rabbit holes."
   location         : "SW Michigan"
   email            : "CleverTwain@gmail.com"
-  uri              :
+  uri              : "https://clevertwain.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
