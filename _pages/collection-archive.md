@@ -3,6 +3,8 @@ layout: archive
 title: "Posts by Collection"
 permalink: /collection-archive/
 author_profile: true
+header:
+  image: /images/function_banner_animated.gif
 ---
 
 {% capture written_label %}'None'{% endcapture %}
